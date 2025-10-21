@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UTS_Yehezkiel_Tornagogo_Lumbantoruan" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
